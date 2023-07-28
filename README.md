@@ -1,5 +1,5 @@
 # Professional-Documents
-# headinng level 1
+# heading level 1
 ## heading level 2
 ### heading level 3
 #### heading level 4
@@ -8,3 +8,4 @@
 # Here is a heading one hashtag
 ----------
 I really like using Markdown. </p>I think I'll use it to format all of my documents from now on.	
+I love **bold texts** *itallic* ***bold and italic***
